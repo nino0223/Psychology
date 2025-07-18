@@ -16,17 +16,17 @@ export default function About() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <Image
-              src="/placeholder.svg?height=500&width=400"
-              alt="Dr. Sarah Johnson"
+              src="/public/placeholder-user.jpg"
+              alt="Marija Hristovska"
               width={400}
               height={500}
               className="rounded-lg shadow-lg"
             />
           </div>
           <div>
-            <h2 className="text-4xl font-bold text-gray-800 mb-6">About Dr. Sarah Johnson</h2>
+            <h2 className="text-4xl font-bold text-gray-800 mb-6">About Marija Hristovska</h2>
             <p className="text-gray-600 mb-6 leading-relaxed">
-              With over 12 years of experience in clinical psychology, I am dedicated to helping individuals navigate
+              With over 5 years of experience in psychology, I am dedicated to helping individuals navigate
               life's challenges and achieve mental wellness. My approach combines evidence-based therapeutic techniques
               with genuine compassion and understanding.
             </p>

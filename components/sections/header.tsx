@@ -8,7 +8,7 @@ export default function Header() {
         <nav className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <Brain className="h-8 w-8 text-amber-700" />
-            <span className="text-xl font-bold text-gray-800">Dr. Sarah Johnson</span>
+            <span className="text-xl font-bold text-gray-800">Marija Hristovska</span>
           </div>
           <div className="hidden md:flex space-x-6">
             <Link href="#about" className="text-gray-600 hover:text-amber-700 transition-colors">

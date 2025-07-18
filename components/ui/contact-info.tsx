@@ -11,14 +11,14 @@ export default function ContactInfo() {
         </div>
         <div className="flex items-center space-x-3">
           <Mail className="h-5 w-5 text-amber-700" />
-          <span className="text-gray-700">dr.sarah@mindfultherapy.com</span>
+          <span className="text-gray-700">h.marija994@yahoo.com</span>
         </div>
         <div className="flex items-center space-x-3">
           <MapPin className="h-5 w-5 text-amber-700" />
           <span className="text-gray-700">
-            123 Wellness Ave, Suite 200
+            Midgård 2E
             <br />
-            San Francisco, CA 94102
+            Västervik, Sweden
           </span>
         </div>
       </div>
@@ -31,13 +31,6 @@ export default function ContactInfo() {
           <p>Saturday: 10:00 AM - 3:00 PM</p>
           <p>Sunday: Closed</p>
         </div>
-      </div>
-
-      <div className="mt-8">
-        <p className="text-sm text-gray-600">
-          <strong>Insurance Accepted:</strong> Most major insurance plans including Blue Cross Blue Shield, Aetna,
-          Cigna, and UnitedHealthcare. Please contact for verification.
-        </p>
       </div>
     </div>
   )

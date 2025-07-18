@@ -7,39 +7,33 @@ import ExperienceCard from "@/components/ui/experience-card"
 export default function Experience() {
   const educationData = [
     {
-      degree: "Ph.D. in Clinical Psychology",
-      institution: "Stanford University",
-      period: "2008 - 2012",
-      description: 'Dissertation: "Cognitive Behavioral Interventions for Anxiety Disorders"',
-    },
-    {
       degree: "M.A. in Psychology",
-      institution: "University of California, Berkeley",
-      period: "2006 - 2008",
+      institution: "University of Gothenburg, Sweden",
+      period: "2023 - 2025",
     },
     {
       degree: "B.A. in Psychology",
-      institution: "UCLA",
-      period: "2002 - 2006",
+      institution: "University of Gothenburg, Sweden",
+      period: "2020 - 2023",
       description: "Magna Cum Laude, Phi Beta Kappa",
     },
   ]
 
   const experienceData = [
     {
-      title: "Private Practice",
+      title: "PTP",
       role: "Licensed Clinical Psychologist",
-      period: "2015 - Present",
+      period: "2025 - Present",
       description: "Providing individual and couples therapy specializing in anxiety, depression, and trauma",
     },
     {
-      title: "Community Mental Health Center",
+      title: "Bolnicata 2 leta",
       role: "Senior Clinical Psychologist",
       period: "2012 - 2015",
       description: "Led therapy groups and provided crisis intervention services",
     },
     {
-      title: "Stanford Medical Center",
+      title: "4 pacienti na praksa",
       role: "Psychology Intern",
       period: "2011 - 2012",
     },
