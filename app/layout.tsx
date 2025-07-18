@@ -3,7 +3,7 @@ import type { Metadata } from "next"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Dr. Sarah Johnson - Licensed Clinical Psychologist",
+  title: "Marija Hristovska - PTP Psychologist",
   description:
     "Professional psychology services specializing in anxiety, depression, and trauma therapy. Compassionate, evidence-based care in San Francisco.",
   keywords: "psychologist, therapy, mental health, anxiety, depression, trauma, San Francisco",
