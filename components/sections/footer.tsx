@@ -8,7 +8,7 @@ export default function Footer() {
           <Brain className="h-6 w-6" />
           <span className="text-xl font-bold">Marija Hristovka</span>
         </div>
-        <p className="text-stone-400 mb-4">PTP Psychologist</p>
+        <p className="text-stone-400 mb-4">PTP Psychologist</p> 
         <p className="text-sm text-stone-500">
           © {new Date().getFullYear()} Marija Hristovka Psychologyst. All rights reserved.
         </p>

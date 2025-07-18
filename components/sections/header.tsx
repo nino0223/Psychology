@@ -13,7 +13,7 @@ export default function Header() {
           <div className="hidden md:flex space-x-6">
             <Link href="#about" className="text-gray-600 hover:text-amber-700 transition-colors">
               About
-            </Link>
+            </Link> 
             <Link href="#experience" className="text-gray-600 hover:text-amber-700 transition-colors">
               Experience
             </Link>

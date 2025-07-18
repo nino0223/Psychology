@@ -32,6 +32,6 @@ export default function ContactInfo() {
           <p>Sunday: Closed</p>
         </div>
       </div>
-    </div>
+    </div> 
   )
 }

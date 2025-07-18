@@ -45,7 +45,7 @@ export default function Experience() {
     "EMDR Therapy",
     "Trauma-Informed Care",
     "Anxiety Disorders",
-    "Depression Treatment",
+    "Depression Treatment", 
     "Couples Therapy",
     "Mindfulness-Based Therapy",
   ]
