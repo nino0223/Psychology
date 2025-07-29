@@ -16,7 +16,7 @@ export default function About() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <Image
-              src="placeholder-user.jpg"
+              src="MarijaHristovska.jpg"
               alt="Marija Hristovska"
               width={400}
               height={500}
